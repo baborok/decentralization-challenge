@@ -30,4 +30,4 @@ The objective of this challenge is to generate a comprehensive report that asses
 * [List of available tasks](https://github.com/1712n/challenge/issues)
 * [Inca Digital website](https://inca.digital)
 
-To participate, submit a pull request to the [challenge repo](). To make sure your submission doesn't get lost, you can also email your pull request link along with your resume and the link to this challenge to [challenge-submission@blockshop.org](mailto:challenge-submission@blockshop.org).
+To participate, submit a pull request to the [challenge repo](https://github.com/1712n/decentralization-challenge/tree/main). To make sure your submission doesn't get lost, you can also email your pull request link along with your resume and the link to this challenge to [challenge-submission@blockshop.org](mailto:challenge-submission@blockshop.org).
