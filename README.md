@@ -22,7 +22,7 @@ The objective of this challenge is to generate a comprehensive report that asses
 
 - Create a report that includes the metrics with values for the project you chose. Don't forget to include a brief 1-2 sentence explanation of each metric.
 
-*Note*: Some metrics might be quantitative, while others - qualitative. Please, submit CSV-files for quantitative metrics and an additional report for qualitative metrics.
+*Note*: Some metrics might be quantitative, while others - qualitative. 
 
 ### Additional Resources
 
