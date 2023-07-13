@@ -1,0 +1,50 @@
+Dogecoin is an open-source cryptocurrency established in 2013. The main feature of this coin, that makes it outstanding among others, is the the Shiba Inu dog presented as the logo.
+Now let's analyse the degree of decentralization in Dogecoin project.
+
+GitHub metrics:
+1. Contributor commit activity  - this metrics represent the activity and involvment of developers in the project, also could be used to see whether the project is interesting for the crypto-world.
+The number of contributors = 272
+Amount of commits by the top 1 user = 1460
+Amount of commits by the top 10 users = 4881
+The majority of contributions were done untill jan-feb 2017.
+2. Number of pull requests - the number of pull requests shows us how external users and community are involved in proposing of changes or improvements to the Dogecoin code in Github.
+For instance, it could be a suggestion on how to fix some bug in the existing code.
+Number of pull requests - 1757 pull requests, majority of them are already closed, 64 of them are open.
+3. Number of issues - the number of issues reflects engagement of users in using the coin.
+Number of opened issues = 147; the latest in July 2023.
+
+Operational metrics:
+1. Allocation/distribution of assets at the initial launch - This metric shows us how the coin was allocated during the initial launch, this allows to evaluate the fairness of distribution and how well the coin is decentralized.
+Dogecoin's initial distribution was based on mining, without pre-mine or initial coin offering, as that could potentially concentrate assets in the hands of some amount of people.
+The first known price of dogecoin was established in January 2014, $0,001540753 per coin. 
+In July 2023 the price is $0.06545083 per coin
+2. Profit mechanism - This metric shows how profits, money streams and other types of motivation are distributed among people who potentially should sustain decentralization.
+Dogecoin uses a proof of work consensus mechanism, in which miners use computers to solve complex mathematical equations in order to process transactions and record them on the blockchain. 
+In exchange for supporting the blockchain, miners earn additional Dogecoin, which they can then hold or sell on the open market, thus gain profit for the work.
+
+Blockchain metrics:
+1. cost of 51% attack - A 51% attack is a situation on a blockchain where some individuals or a group of people gain control of more than 50% (51%) of the network's mining power or computational power. 
+Thus these people will be able to do some unfounded fraudulent transactions. The cost of the attack is the amount of money needed to carry out the attack itself.
+Cost of 1h Attack on Dogecoin  = $40,908	
+2. Hashrate Distribution - Hashrate distribution reflects the distribution of mining power across different miners or mining pools in the network. In a decentralized network there should be a diverse and distributed hashrate,
+so that there is no dominance of some single person or a group of miners among others.
+Dogecoin Hashrate Distribution: 1st pool - 15,7%; 2nd pool - 15,1%; 3rd pool - 11%; 4th pool - 5,1%; other pools and individual minors (each of them less than 5%) - 53,1%.
+
+Supply metric:
+This metric shows information about the coin and it's potential future distribution.
+Max Supply: Not limited
+Current Supply: 140,085,536,384
+This metrics show us that the Dogecoin can be considered an inflationary coin, because there's a ceiling on the number of coins that will be created. Other cryptocurrencies where the maximum amount of coins that will be created is limited are called deflationary.
+
+Modern day distribution:
+Top Dogecoin Distribution allows us to see how much of current supply of the coin is holded by top 10 (for example) holders of the coin.
+Top 10 holders - 47.11% of all Dogecoin
+Top 1 holder - 23.50% of all Dogecoin
+In comparison with Bitcoin, top 10 holders of Bitcoin hold 5.35% of all supply and top 1 holder holds 1.18% of all supply.
+
+Legal Independence:
+This metric shows us the potential resistance to external control or manipulation. 
+Legal Independence of Dogecoin - it is a decentralized and open-source project, that operates independently of specific legal or regulatory entities. 
+Its decentralized nature makes it less vulnerable to centralized regulations.
+
+Despite the fact that Dogecoin was assosiated with a huge amount of jokes and memes in the internet communities, it demonstrates the power of decentralization.
