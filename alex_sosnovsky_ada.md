@@ -79,3 +79,48 @@ _I actually thought it might not be enough, so I looked deeper at this and found
 **Public Audits:** This metric examines whether the project undergoes regular audits by reputable third-party firms. Public audits enhance transparency and provide confidence in the project's decentralized nature and security.
 
 Thank you for your time, hope I got your interest. Waiting for your feedback!
+
+
+First of all, thank you for your feedback. The text you can see below is a result of me trying to investigate how decentralized the toket I've chosed is. I tried to use the metrics I provided above and here it is: 
+
+### Opportunity for Inclusive Participation:
+ 
+Cardano aims to make participation in decentralization as inclusive as possible, with minimal financial cost of entry and technological skill requirements. The ability to delegate ADA coins to block producer nodes allows even individuals with low capital and expertise to participate.
+
+### Resource Ownership and Entry Costs: 
+
+Cardano's Proof-of-Stake (PoS) mechanism enables participation in decentralization by owning a few ADA coins, which is more accessible compared to the higher entry costs associated with Proof-of-Work (PoW) networks like Bitcoin. The ownership of an expensive resource in PoS networks allows for long-term participation in decentralization.
+
+### Centralization Risks in PoW Networks: 
+
+Bitcoin's decentralization is affected by the concentration of hash power among a few major mining pools and the dominance of publicly listed mining companies. This concentration poses risks to the network's security and resistance against attacks.
+
+### Ethereum's Transition to PoS: 
+
+Ethereum is gradually transitioning to a PoS consensus mechanism, which is expected to enhance decentralization. The increasing number of validators and a decreasing share of centralized exchanges in staking indicate improvements in decentralization.
+
+### Attack Vectors and Defense: 
+
+The evaluation considers potential attack vectors on decentralization, such as targeting block producers, large resource holders, or nodes operated by third parties. The ability to defend against attacks and maintain a high number of independent actors is crucial for decentralization.
+
+### Comparison of Decentralization: 
+
+Cardano is found to be approximately 10 times more decentralized than Bitcoin at the block producer level and similar to Bitcoin in terms of large resource holder decentralization. Ethereum is likely slightly more decentralized than Bitcoin. However, the precise comparison requires more precise information on validator operators in Ethereum.
+
+### Long-Term Trend: 
+
+While Bitcoin's decentralization is declining due to the centralization of mining around large miners, PoS networks like Cardano and Ethereum are experiencing increasing decentralization as more individuals stake coins from their own wallets, reducing reliance on exchanges.
+
+### Importance of Governance: 
+
+Decentralization should not be solely focused on block production but also consider governance mechanisms. The alignment of interests between network owners (holders) and the network's well-being is an important aspect to assess decentralization.
+
+### Complexity and Nuances: 
+
+
+Measuring decentralization is a complex task that requires precise analysis, consideration of external and internal attack vectors, and weighing associated risks. Decentralization can be evaluated at various levels, including client diversity, coin distribution, and cloud service usage.
+
+### Ever-Changing Decentralization: 
+
+
+Decentralization is not a static figure and will constantly change over time. It requires ongoing effort to maintain high levels of decentralization and avoid centralization tendencies.
