@@ -1,0 +1,43 @@
+Chainlink is a decentralized oracle network and cryptocurrency that aims to bridge the gap between smart contracts on blockchain platforms and real-world data sources. In this report, we will provide an overview of Chainlink, including its features, decentralization, operational metrics, blockchain metrics, supply metrics, and legal independence.
+
+Overview:
+Chainlink was founded in 2017 by Sergey Nazarov and Steve Ellis. It operates on various blockchain platforms, including Ethereum, and provides a decentralized infrastructure for connecting smart contracts with external data sources and APIs. The native cryptocurrency of the Chainlink network is called LINK.
+
+Decentralization Metrics:
+
+GitHub Metrics:
+Contributor Commit Activity: The number of contributors = 100
+Amount of commits by the top 1 user = 1827
+Amount of commits by the top 10 users = 9432
+Still active in contribution. The most active period was july 2019-may 2020
+
+Number of Pull Requests: Chainlink's GitHub repository has received a significant number of pull requests, indicating community involvement and contributions to the project. Total of pull requests is 2355. Still open 96.
+
+Number of Issues: The number of issues raised on the GitHub repository reflects user engagement and potential challenges faced by the project. Total number of issues 404. Still open 62.
+
+Operational Metrics:
+
+Allocation/Distribution of Assets at Launch: Chainlink initially distributed its LINK tokens through an initial coin offering (ICO) in September 2017. The distribution aimed to provide wide accessibility to the token, with a portion reserved for the project's development and the team. The first known price of LINK was established in September 2017, $0,11 per coin. In July 2023 the price is $6.8 per coin.
+
+Profit Mechanism: Chainlink operates as a decentralized oracle network, and its profit mechanism is primarily driven by the demand for its services. Node operators, who provide data to smart contracts, are compensated in LINK tokens for their services.
+
+Blockchain Metrics:
+
+Chainlink operates as a decentralized network, leveraging the security and consensus mechanisms of the underlying blockchain platforms it integrates with. During the initial coin offering (ICO) for LINK in September 2017, Chainlink announced a total and maximum supply of 1,000,000,000 LINK tokens. The current supply is about 517,099,972 LINK tokens, or about 52% of the total supply. The Chainlink price at ICO was $0.11 and a total of 350 million LINK tokens were sold.
+
+According to the ICO documentation, 35% of the total token supply will go towards node operators and the incentivization of the ecosystem. Another 35% of LINK tokens were distributed during public sale events. Lastly, the remaining 30% of the total token supply was directed towards the company for the continued development of the Chainlink ecosystem and network.
+
+Cost of 51% Attack: Chainlink operates as a decentralized network, leveraging the security and consensus mechanisms of the underlying blockchain platforms it integrates with, such as Ethereum. The cost of a 51% attack on Chainlink would be dependent on the blockchain platform it is running on, and specific information about the cost is not available.
+
+Hashrate Distribution: Chainlink does not have its own native blockchain or mining network. It operates as an oracle network on top of existing blockchains. Therefore, hashrate distribution is determined by the underlying blockchain platform, and specific information regarding Chainlink's hashrate distribution is not available.
+
+Supply Metrics:
+
+Max Supply: The maximum supply of LINK tokens is set at 1 billion tokens.
+
+Current Supply: The current supply is about 517,099,972 LINK tokens, or about 52% of the total supply
+
+Legal Independence:
+Chainlink is a decentralized protocol that operates independently of specific legal or regulatory entities. Its decentralized nature reduces the vulnerability to centralized regulations and provides a level of independence.
+
+In conclusion, Chainlink is a decentralized oracle network that connects smart contracts with real-world data sources and APIs. It aims to enhance the functionality and potential use cases of blockchain-based applications. While specific metrics regarding decentralization, operational details, and supply are not provided, Chainlink has gained significant adoption and has an active developer community. It provides a critical infrastructure for obtaining external data on various blockchain platforms, contributing to the advancement of decentralized applications and the broader blockchain ecosystem.
