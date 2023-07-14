@@ -124,3 +124,9 @@ Measuring decentralization is a complex task that requires precise analysis, con
 
 
 Decentralization is not a static figure and will constantly change over time. It requires ongoing effort to maintain high levels of decentralization and avoid centralization tendencies.
+
+
+### Conclusion
+Cardano (ADA) aims to achieve inclusive participation with low entry costs and technical requirements. Its Proof-of-Stake mechanism makes decentralization more accessible compared to Bitcoin's Proof-of-Work. Ethereum's transition to PoS also improves decentralization. Cardano is approximately 10 times more decentralized than Bitcoin at the block producer level. Governance and defense against attacks are important. 
+
+**note** I didn't include all the numbers I found, but if needed, I can. I'm actually very interested in searching for such data and analysing the information to make reports or documentation, I even have an experience in it.
