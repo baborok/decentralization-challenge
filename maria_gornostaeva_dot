@@ -1,0 +1,57 @@
+In this project, I have decided to explore DOT, the native cryptocurrency of PolkaDot.   Polkadot is a decentralized multi-chain platform that enables the interoperability of different blockchains. It was created by the Web3 Foundation with the goal of connecting disparate blockchain networks to facilitate the seamless transfer of data and assets. Polkadot aims to overcome the scalability and compatibility challenges faced by existing blockchains.
+The core of PolkaDot architecture is the relay chain, which connects and secures parachains, allowing them to communicate with external networks via bridges. All validators of Polkadot are staked on the Relay Chain in DOT and validate for the Relay Chain. The Relay Chain is composed of a relatively small number of transaction types that include ways to interact with the governance mechanism, parachain auctions, and participating in NPoS. The Relay Chain has deliberately minimal functionality - for instance, smart contracts are not supported. The main responsibility is to coordinate the system as a whole, including parachains. Other specific work is delegated to the parachains, which have different implementations and features.
+
+Here are some PolkaDot decentralization metrics.
+
+1. GitHub metrics
+     - contributor commit activity provides insights into the level of participation, productivity, and influence of individual contributors within a project.
+     number of contributors - 262,
+     number of commits - 4171,
+     percentage of commits from top 5 contributors - 44%, indicating a significant contribution from a handful of key individuals
+     percentage of commits from top 10 contributors - 65,5%,
+     commit frequency for the last year is about 15 commits per week, indicating consistent and regular code contributions
+     number active contributors in 2023 - 54.
+     - number of open pull requests - 158,
+     - number of closed pull requests - 5160,
+     - active branches - 116, indicating high interest of other developers in the project
+     - number of open issues - 521
+     - number of closed issues - 1567
+     Issue discussions in the project show high engagement, with comments typically received on the same or next day, indicating active participation.
+
+Overall, these metrics demonstrate a vibrant and engaged community of contributors, with a balance between top contributors and a broader base of active participants. The commitment, productivity, and influence of these contributors play a crucial role in driving the progress and success of the project.
+
+2. Operational metrics
+    - the Initial token distribution of DOT is as follows:
+          3.42% is allocated to Private Sale Investors
+          5.00% is allocated to SAFT Investors
+          50.00% is allocated to Auction Investors
+          11.58% is allocated to Future Sales
+          30.00% is allocated to Web 3 Foundation
+    - market capitalization: $6,510,346,821. As of the end of Q2 2023, Polkadot ranked as the 12th largest crypto project by market capitalization
+    - 24 hour trading volume: $115,927,011
+    - price volatility: InvestorsObserver gives Polkadot a moderate volatility rank of 26, placing it in the bottom 26% of cryptos on the market.
+    - block generation time: one block every 6 seconds
+    - transaction latency: about 12 seconds for transactions to achieve finality
+    - active addresses daily: 5920
+    - transactions daily: 8000
+    - new addresses daily: 1480
+    - amount of holders: 1,131,823
+    - TOP 50 Holders earn 58,16% DOT
+    - profit mechanism - Proof-of-Stake. Staking is the act of posting certain crypto assets as collateral to participate in the operation of a blockchain. As compensation for locking up holdings, users receive regular rewards in a manner similar to interest payments.
+    - governance participation: On-chain governance allows the users to make decisions that affect the network on the network itself. Decisions are easily audited in real-time as any vote is recorded in the network.
+
+Overall, the operational metrics indicate Polkadot's strong market presence, efficient transaction processing, user engagement, and commitment to decentralized governance.
+
+3. Blockchain metrics
+    - consensus algorithm: NPoS. There are a few clear advantages that Nominated Proof of Stake blockchains have over Proof of Work chains. These include low energy costs, time to finality, resistance to 51% attacks and safety
+    - validator distribution: most nodes are located in central Europe and the US. Higher node geographic distribution across different regions and countries indicates a more decentralized network.
+    - interoperability: Polkadot enables cross-blockchain transfers of any type of data or asset, not just tokens. Connecting to Polkadot gives the ability to interoperate with a wide variety of blockchains in the Polkadot network
+    - number of validators - 297
+    - number of nominators - 25860
+    - node degree distribution: for both in-degree and out-degree distribution the power-law model provides a reasonable fit. The tail/end segment is heavier than pure power law distributions, indicating that the number of high-degree nodes (influential nodes) is relatively much smaller than low-degree nodes (e.g., regular users)
+    - node degree centrality: last year's research showed that few nodes dominate the network in terms of centrality and influence. It seems that one of them is Binance
+    As well-known in the literature, networks with power law degree distributions may introduce potential vulnerabilities. Indeed, if the central hubs, or the nodes with high degrees, are controlled or compromised, the entire network’s functionality will get affected. Having exchange centers and mining/staking pools with stronger connectivity than other nodes eventually leads to concentration/centralization of power, which is a phenomenon that is not desirable in decentralized blockchains.
+
+Recently PolkaDot released a new governance platform, Polkadot OpenGov, which is meant to enhance decentralization. It is positioned as decentralized (no first-class citizens, DOT holders handle all network operations), fast (multiple referenda can run simultaneously, meaning decisions can be taken faster, without compromising security), open (agile vote delegation drives participation, while conviction voting levels the playing field for those with fewer tokens) and future-facing (Polkadot and connected parachains upgrade seamlessly to always stay up to date).
+
+In summary, the in-depth examination of these metrics showcases Polkadot's robust market position, engaged community involvement, effective blockchain functionality, and suitable level of decentralization within the network.
