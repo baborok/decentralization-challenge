@@ -1,0 +1,31 @@
+For this challenge, I will chosse Ethereum as the cryptocurrency project to assess its degree of decentralization. Here are the metrics that I used:
+
+1.	GitHub Metrics
+•	Contributor Commit Activity: As of July 2023, Ethereum has over 10,000 commits from around 400 contributors. The top contributor accounts for less than 10% of total commits. This distributed commit activity indicates a decentralized development process.
+•	Number of Pull Requests: With over 2,000 pull requests, Ethereum has significant community contributions to its codebase. This demonstrates a decentralized and engaged community.
+•	Code Repository Distribution: Ethereum has multiple client implementations such as Geth, Parity, Nethermind written in different languages like Go, Rust, C#. This diverse codebase enhances decentralization.
+
+2.	Operational Metrics
+•	Allocation/Distribution of Assets at Launch: The initial 2014 Ethereum crowdsale sold 60 million Ether to over 6,000 participants, indicating broad token distribution.
+•	Current Token Distribution: Analyzing the distribution of ETH holdings among addresses can provide insights into decentralization. If a small number of addresses hold a significant portion of the total supply, it may indicate centralization of wealth and influence. The top 100 Ethereum addresses control less than 5% of total supply. This minimal concentration highlights decentralization. Profit Mechanism: Ethereum's transition to Proof-of-Stake allows any ETH holder to stake and earn rewards. This is more decentralized than Proof-of-Work.
+
+3.	Blockchain Metrics
+•	Cost of 51% Attack: This metric measures the security of the network. The higher the cost, the more secure and decentralized the network is. As of July 2023, the cost of a 51% attack on Ethereum is prohibitively high due to its large network of validators, making it highly decentralized.
+•	Node Distribution: Ethereum has over 8,000 nodes globally across 75+ countries. A high number of diverse nodes run by different individuals or organizations suggests a more decentralized network. You can analyze metrics such as the number of active nodes, geographical distribution, and the diversity of node operators.
+•	Block Time: The average time it takes to mine a new block on the Ethereum blockchain. The average block time is around 13 seconds. However, please note that this value can vary depending on network conditions and updates to the Ethereum protocol. Allows rapid transaction validation by the decentralized network.
+•	Network Hashrate: The total computational power contributed by miners or validators to secure the Ethereum network. Hashrate is measured in hashes per second (H/s) and indicates the network's overall processing power. A higher hashrate indicates a more secure network, as it becomes more challenging for a single entity to control a significant portion of the network's computational power and potentially manipulate transactions. The current Ethereum hashrate is 390.45 MH/s, representing the global Ethereum network hashrate with a mining difficulty of 1.00 at block height 17,685,312.
+
+4.	Governance Metrics
+•	Governance Processes: Ethereum's governance involves decision-making processes to propose and implement protocol upgrades. Assessing the openness and inclusivity of these processes is important. Look at factors such as the number of participants, the accessibility of decision-making mechanisms, the influence of core developers, and the transparency of decision-making.
+•	Improvement Proposals: Ethereum has a decentralized, community-driven process for EIPs. Anyone can submit an EIP.
+•	Core Developers: Ethereum has several independent teams contributing to protocol development, unlike Bitcoin's more centralized structure. Looking at the monthly active developers, Ethereum leads with 220 monthly active core developers on average
+•	Hard Fork Decisions: Contentious hard fork decisions require broad consensus from node operators, miners, exchanges, users. The Ethereum cryptocurrency network's so-called Shanghai upgrade is a hard fork slated to launch in March 2023
+
+5.	Network Adoption Metrics
+•	Active Addresses: The number of active addresses on the Ethereum network indicates the level of user participation and engagement. Higher numbers of active addresses suggest a more decentralized user base, as it indicates a larger number of individuals or entities interacting with the network. Ethereum Daily Active Addresses is at a current level of 343502.0
+•	Transactions Per Day: Tracking the number of transactions processed on the Ethereum network per day provides an indication of network usage. Higher transaction volumes generally suggest a greater degree of decentralization, as it implies a diverse range of participants using the network for various purposes. Ethereum Transactions Per Day is at a current level of 1.036M
+•	Geographic Distribution: Analyzing the geographic distribution of Ethereum users and contributors can offer insights into decentralization. A diverse global user base indicates broader participation and reduces the concentration of influence in a particular region. The geographical distribution of Ethereum nodes according to Ethernodes is as follows: 26.19% in the US. 16.05% in China. 9.49% in Germany
+•	Community Engagement: Monitoring the level of community engagement, such as the number of active participants in online forums, social media platforms, and developer communities, can provide insights into the degree of decentralization. A thriving and engaged community suggests decentralized decision-making and participation. The Ethereum community is home to hundreds of thousands of developers, technologists, designers, users, HODLers and enthusiasts.
+•	Developer Activity: Examining the level of developer activity within the Ethereum ecosystem is important. Higher developer involvement indicates a more decentralized network, as it suggests a larger pool of contributors and a diverse range of projects being built on the platform. Ethereum accounts for 16% of all developers in crypto
+
+In summary, analysis of various technical, operational, governance and adoption metrics substantiates Ethereum as a highly decentralized blockchain network. The distribution of influence among diverse stakeholders is a key driver of Ethereum's decentralization.
