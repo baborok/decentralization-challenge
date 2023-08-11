@@ -1,0 +1,58 @@
+I have chosen Ankr:
+Link to the repo: https://github.com/Ankr-network/ankr-docs
+
+-Github metrics:
+Total number of commits: 2,788
+Number of contributors: 28
+Percentage of commits from top-5 contributors: 100%
+Number of pull requests: Overall - 1,347. Open - 0
+Ratio of open/closed issues: 0/14
+Github metrics indicate the project's health and whether it's actively maintained or not. It shows whether the project is being updated and shows the community's involvement. 
+
+- Token Distribution and Community involvement metrics: 
+Circulating supply : 10,000,000,000 ANKR or 100.00%
+Total supply: 10,000,000,000 ANKR
+Max. supply: 10,000,000,000 ANKR
+- Token Distribution: 
+Total Holders: 44,071
+Collectively own: 89.60%
+
+There are some whales, however most of the big holders are exchanges such as Binance and Coinbase. Some exchanges have multiple ANKR adresses (https://etherscan.io/token/tokenholderchart/0x8290333cef9e6d528dd5618fb97a76f268f3edd4) 
+
+| Rank | Address                                      | Quantity (Token)                             | Percentage |
+|------|----------------------------------------------|----------------------------------------------|------------|
+| 1    | 0x64014e...33793464                         | 1,560,421,846.525751026922447371            | 15.6042%   |
+| 2    | 0xeFA1f6...374019E7                         | 1,252,270,037                                | 12.5227%   |
+| 3    | 0xA93Fee...3f818D4f                         | 1,178,579,891                                | 11.7858%   |
+| 4    | Binance 8                                   | 575,342,024.932                              | 5.7534%    |
+| 5    | 0x46f800...FCA4ee9b                         | 299,965,935.62073518                         | 2.9997%    |
+| 6    | 0x42711E...5C3858e6                         | 270,814,055.04                               | 2.7081%    |
+| 7    | 0xaB15B0...8C1f9E7f                         | 252,714,957.571062676148960179              | 2.5271%    |
+| 8    | Null: 0x00...dEaD                           | 239,489,825.883199                           | 2.3949%    |
+| 9    | 0x636e01...d57900Fa                         | 160,510,774.855967419895604761              | 1.6051%    |
+| 10   | 0x977843...6Fa4e0B1                         | 131,080,389.766220212339163623              | 1.3108%    |
+
+- Operational Metrics and Community Treasury: 
+40% of the tokens are distributed to the node right away in 2017 (https://www.ankr.com/docs/staking-extra/ankr-tokenomics/) 
+The rest 60% were unlocked between 2017 and 2022
+49% going to individual stakers 
+51% allocated to node providers
+The Ankr network itself is not a PoS network, but a node network that supports other PoS blockchains. Ankr allows users to deploy nodes on PoS blockchains, 
+stake their PoS tokens, and access decentralized finance (DeFi) applications. Current staking APR is %6.29 with around $6 millions staked on delegated staking and 
+around $86 millions staked on liquid staking ethereum network with %3.12 APY. 
+Cost of a 51% attack would involve acquiring 51% of the token supply, which could drive up the price of the token due to demand. Current supply is 10,000,000,000 and current price is around
+0.0253 meaning it would cost 2,530,000,00 which is not feasible, because even exchanges own around 15% max. 
+
+- User Engagement Metrics: 
+Top 10 Holders control - 54% of Total Supply
+Top 20 Holders control - 64% of Total Supply
+Top 50 Holders control - 74% of Total Supply
+Top 100 Holders control - 90% of Total Supply
+
+- Transparency and Auditing:
+Ankr undergo audit checks starting from 2020 (https://www.ankr.com/docs/staking-extra/audit-reports/). 
+Smart contracts, liquid staking, delegated staking and bridges undergo audits. 
+
+-Interoperability:
+The number and significance of integrations with other DeFi protocols, wallets, or platforms.
+The ability of ANKR to operate or integrate with multiple blockchain networks.

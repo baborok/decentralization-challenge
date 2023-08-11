@@ -1,5 +1,9 @@
 # Crypto project decentralization challenge
 
+*!!! *An update about the challenge: we're going to pause it for a short while and make some changes. Please subscribe to get the latest updates.*
+
+*If you've already submitted your solutions, no need to worry. We'll review them and get in touch with everyone.*
+
 The objective of this challenge is to generate a comprehensive report that assesses the degree of decentralization in the crypto asset project.
 
 - Choose any cryptocurrency project, whether it is a native coin or a token.
